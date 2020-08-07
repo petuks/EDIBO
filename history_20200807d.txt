@@ -1,0 +1,31 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  clone https://github.com/petuks/EDIBO
+    4  clone https://github.com/petuks/EDIBclcleqO
+    5  clear
+    6  ls
+    7  whereisls
+    8  whereis ls
+    9  ls /bin/ls
+   10  ls -l /bin/ls
+   11  ls /bin/ls
+   12  ls -l
+   13  pwd
+   14  /home/user/EDIBO/README.md
+   15  chmod 764 README.md
+   16  /home/user/EDIBO/README.md
+   17  ls -l
+   18  /bin/ls
+   19  ls
+   20  ls -l /bin/ls
+   21  cat /bin/ls
+   22  wc /bin/ls
+   23  clear
+   24  ls\
+   25  clear
+   26  ls
+   27  chmod 664 README.md
+   28  ls -lt
+   29  pwd
+   30  history
+   31  history > history_20200807d.txt
