@@ -4,8 +4,10 @@ EDIBO projekta elektroniskā klade
 ### Topics:  
 - Terminal (hot-keys)
 - Shell (basics)
-- Git (basics)
-
+- Git (basics)  
+- ASCII table
+#### ASCII table
+[ASCII table] (https://www.ecowin.org/ascii.html)
 # Izmantotie taustiņu saīsinājumi
 - crtl+alt+t (atver termināli)  
 - crtl+shift+t (atver new tab iekš termināli)  

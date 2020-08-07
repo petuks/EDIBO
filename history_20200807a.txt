@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  history
+    4  clear
+    5  echo $0
+    6  sh
+    7  echo $0
+    8  last
+    9  clear
+   10  pwd
+   11  ls
+   12  ls -l
+   13  -l -a
+   14  l -a
+   15  ls -a
+   16  cd Desktop/
+   17  pwd
+   18  clear
+   19  pwd
+   20  cd /home
+   21  pwd
+   22  cd
+   23  cd Desktop/
+   24  cd ../..
+   25  pwd
+   26  cd
+   27  cd Desktop/
+   28  cd
+   29  tree
+   30  clear
+   31  man tree
+   32  tree -d
+   33  clear
+   34  history
+   35  clear
+   36  history
+   37  last
+   38  locate
+   39  git clone https://github.com/petuks/EDIBO
+   40  ls -lt
+   41  cd EDIBO/
+   42  ls -lt
+   43  virtualbox --startmv XP
+   44  tree
+   45  cat README.md 
+   46  clear
+   47  hexdump -c README.md 
+   48  cleat
+   49  clear
+   50  hexdump -C README.md 
+   51  clear
+   52  nano README.md 
+   53  cat README.md 
+   54  clear
+   55  ls -lta
+   56  histroy
+   57  history
+   58  history > history 20200807a.txt
+   59  ls -lt
+   60  history >history 20200807a.txt
+   61  ls -lt
+   62  history >_history 20200807a.txt
+   63  history > history_20200807a.txt
