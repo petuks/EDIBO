@@ -40,3 +40,24 @@ EDIBO projekta elektroniskā klade
 - df (parāda atlikušo diska atmiņu)  
 - date (parāda pašreizējo laiku)  
 - calendar (parāda dienu)  
+- seq 1 10 (parāda skaitļus no 1 lidz 10)  
+
+# Skaitīšanas sitēmas  
+DEC  Hex Bin  
+00  00  000
+01  01  001  
+02  02  010  
+03  03  011  
+04  04  100  
+05  05  101  
+06  07  110  
+07  08  111  
+08  09  1000  
+09  A  1001  
+10  B  1010  
+11  C  1011  
+12  D  1100  
+13  E  1101  
+14  F  1110  
+15  10  1111  
+16  11  10000  
