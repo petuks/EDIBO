@@ -7,7 +7,7 @@ EDIBO projekta elektroniskā klade
 - Git (basics)  
 - ASCII table
 #### ASCII table
-[ASCII table] (https://www.ecowin.org/ascii.html)
+[ASCII table] (https://www.ecowin.org/ascii.htm)
 # Izmantotie taustiņu saīsinājumi
 - crtl+alt+t (atver termināli)  
 - crtl+shift+t (atver new tab iekš termināli)  
