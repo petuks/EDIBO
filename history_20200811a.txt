@@ -1,0 +1,98 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd SHELL
+    4  pwd
+    5  cd
+    6  owd
+    7  pwd
+    8  cd EDIBO/SHELL/
+    9  clear
+   10  owd
+   11  pwd
+   12  clear
+   13  ls -l
+   14  pwd
+   15  ls
+   16  clear
+   17  nano test.sh
+   18  ls
+   19  ls -lt
+   20  chmod 744 test.sh 
+   21  ls -lt
+   22  ./test.sh 
+   23  nano test_variables_1.sh
+   24  ./test_variables_1.sh
+   25  nano test_variables_1.sh
+   26  chmod 744 test_variables_1.sh 
+   27  ./test_variables_1.sh
+   28  clearclear
+   29  clear
+   30  m1="a"
+   31  m2="b"
+   32  echo $m1
+   33  echo $m2
+   34  echo $m1, $m2
+   35  readonly m1
+   36  m1="bbbb"
+   37  nano test_variables2.sh
+   38  chmod 744 test_variables2.sh
+   39  ./test_variables2.sh
+   40  nano test_variables3.sh
+   41  chmod 744 test_variables3.sh
+   42  ./test_variables3.sh
+   43  nano test_variables3.sh
+   44  ./test_variables3.sh
+   45  10
+   46  clear
+   47  nano test_variables4.sh
+   48  chmod 744 test_variables.sh
+   49  chmod 744 test_variables4.sh
+   50  ./ test_variables4.sh
+   51  ./test_variables4.sh
+   52  nano test_variables4.sh
+   53  ./test_variables4.sh
+   54  nano test_var.sh
+   55  chmod 744 test_var.sh
+   56  ./test_var.sh
+   57  nano test_var.sh
+   58  ./test_var.sh
+   59  nano test_var.sh
+   60  ./test_var.sh
+   61  nano test_var.sh
+   62  ./test_var.sh
+   63  nano test_var.sh
+   64  ./test_var.sh
+   65  nano test_var.sh
+   66  ./test_var.sh
+   67  clear
+   68  ./test_var.sh
+   69  nano test_var.sh
+   70  clear
+   71  ./test_var.sh
+   72  nano test_var.sh
+   73  ./test_var.sh
+   74  clear
+   75  ./test_var.sh
+   76  clear
+   77  nano test_var.sh
+   78  ./test_var.sh
+   79  nano test_var.sh
+   80  ./test_var.sh
+   81  nano test_var.sh
+   82  ./test_var.sh
+   83  nano test_var.sh
+   84  ./test_var.sh
+   85  nano test_var.sh
+   86  ./test_var.sh
+   87  nano test_var.sh
+   88  ./test_var.sh
+   89  nano test_var.sh
+   90  ./test_var.sh
+   91  clear
+   92  ./test_var.sh
+   93  clear
+   94  ./test_var.sh
+   95  history
+   96  history > history_20200811a.txt
+   97  cd ..
+   98  history > history_20200811a.txt
