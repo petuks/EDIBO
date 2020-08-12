@@ -1,0 +1,103 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  clone https://github.com/petuks/EDIBO
+    5  git clone https://github.com/petuks/EDIBO
+    6  pwd
+    7  cd EDIBO/SHELL/
+    8  pwd
+    9  clear
+   10  cd ..
+   11  clear
+   12  cd SHELL/
+   13  clear
+   14  ./test_var.sh
+   15  nano test_var
+   16  nano test_var.sh
+   17  clear
+   18  cd SHELL/
+   19  pwd
+   20  clear
+   21  cd
+   22  git clone https://github.com/petuks/FibonacciNumbers
+   23  cd FibonacciNumbers/
+   24  clear
+   25  nano test_fib.sh
+   26  ./test_fib.sh
+   27  chmod 744 test_fib.sh 
+   28  ./test_fib.sh
+   29  clear
+   30  nano test_fib.sh 
+   31  ./test_fib.sh
+   32  clear
+   33  git config --global user.email m.ivans1999@gmail.com
+   34  git add .
+   35  git commit -m "20200811_17_25"
+   36  git push origin master
+   37  git commit -m "20200812_15_03"
+   38  git config --global user.email m.ivans1999@gmail.com
+   39  git add .
+   40  git commit -m "20200812_15_03"
+   41  git push origin master
+   42  clear
+   43  nano test_fib.sh 
+   44  ./test_fib.sh
+   45  nano test_fib.sh 
+   46  git clone https://github.com/petuks/EDIBO
+   47  clear
+   48  cd EDIBO/
+   49  clear
+   50  nano git-upload 
+   51  mkdir Pyton
+   52  cd Pyton/
+   53  clear
+   54  nano README.md
+   55  python
+   56  git clone https://github.com/petuks/EDIBO
+   57  mkdir Python
+   58  cd EDIBO/Pyton/
+   59  python
+   60  cd EDIBO/Python/
+   61  cd ..
+   62  mrdir Pyton
+   63  mrdir Pyton/
+   64  mkdir Python
+   65  cd Python
+   66  clear
+   67  python
+   68  nano first_python_script.py
+   69  chmod 744 first_python_script.py 
+   70  ./first_python_script.py 
+   71  python first_python_script.py 
+   72  nano first_python_script.py
+   73  python first_python_script.py 
+   74  clear
+   75  python first_python_script.py
+   76  python first_python_script.py 
+   77  nano first_python_script.py
+   78  python first_python_script.py 
+   79  clear
+   80  python first_python_script.py 
+   81  nano first_python_script.py
+   82  python first_python_script.py 
+   83  nano first_python_script.py
+   84  python first_python_script.py 
+   85  clear
+   86  python first_python_script.py 
+   87  cp first_python_script.py second_python_script.py 
+   88  ls -lt
+   89  clear
+   90  ls -lt
+   91  whereis python
+   92  clear
+   93  nano second_python_script.py 
+   94  ./second_python_script.py 
+   95  clear
+   96  idle
+   97  clear
+   98  idle &
+   99  ls -lt
+  100  pwd
+  101  clear
+  102  history
+  103  history > history_20200812a.txt

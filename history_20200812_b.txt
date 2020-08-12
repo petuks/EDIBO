@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  clone https://github.com/petuks/EDIBO
+    5  git clone https://github.com/petuks/EDIBO
+    6  pwd
+    7  cd EDIBO/SHELL/
+    8  pwd
+    9  clear
+   10  cd ..
+   11  clear
+   12  cd SHELL/
+   13  clear
+   14  ./test_var.sh
+   15  nano test_var
+   16  nano test_var.sh
+   17  clear
+   18  cd SHELL/
+   19  pwd
+   20  clear
+   21  cd
+   22  git clone https://github.com/petuks/FibonacciNumbers
+   23  cd FibonacciNumbers/
+   24  clear
+   25  nano test_fib.sh
+   26  ./test_fib.sh
+   27  chmod 744 test_fib.sh 
+   28  ./test_fib.sh
+   29  clear
+   30  nano test_fib.sh 
+   31  ./test_fib.sh
+   32  clear
+   33  git config --global user.email m.ivans1999@gmail.com
+   34  git add .
+   35  git commit -m "20200811_17_25"
+   36  git push origin master
+   37  git commit -m "20200812_15_03"
+   38  git config --global user.email m.ivans1999@gmail.com
+   39  git add .
+   40  git commit -m "20200812_15_03"
+   41  git push origin master
+   42  clear
+   43  nano test_fib.sh 
+   44  ./test_fib.sh
+   45  nano test_fib.sh 
+   46  git clone https://github.com/petuks/EDIBO
+   47  clear
+   48  cd EDIBO/
+   49  clear
+   50  nano git-upload 
+   51  mkdir Pyton
+   52  cd Pyton/
+   53  clear
+   54  nano README.md
+   55  python
+   56  nano README.md
+   57  cd ..
+   58  history > history_20200812_b.txt
