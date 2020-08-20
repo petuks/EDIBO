@@ -1,0 +1,13 @@
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.exe
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.deps.json
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.runtimeconfig.json
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.runtimeconfig.dev.json
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.dll
+C:\Users\marti\dev\dn\DecToBin\bin\Debug\netcoreapp3.1\DecToBin.pdb
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.csprojAssemblyReference.cache
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.AssemblyInfoInputs.cache
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.AssemblyInfo.cs
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.csproj.CoreCompileInputs.cache
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.dll
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.pdb
+C:\Users\marti\dev\dn\DecToBin\obj\Debug\netcoreapp3.1\DecToBin.genruntimeconfig.cache
