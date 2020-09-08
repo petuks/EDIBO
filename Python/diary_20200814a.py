@@ -1,51 +1,28 @@
 Python 3.6.8 (default, Jan 14 2019, 11:02:34) 
 [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]] on linux
 Type "help", "copyright", "credits" or "license()" for more information.
->>> thon/OOP_test_1.py
-Traceback (most recent call last):
-  File "<pyshell#0>", line 1, in <module>
-    thon/OOP_test_1.py
-NameError: name 'thon' is not defined
 >>> 
 =============== RESTART: /home/user/EDIBO/Python/OOP_test_1.py ===============
 Before an = PartyAnimal()
+I am constructed
 After an = PartyAnimal()
 
 Before first an.party()
-So far 1
+So far x property of object is:  1
 After first an.party()
+I am constructed
 
 Before second an.party()
-So far 2
-After second an.party
+So far x property of object is:  1
+After second an.party()
 
 Before third an.party()
-So far 3
+So far x property of object is:  201
 After third an.party()
 
 Before one more party()
-So far 4
+So far x property of object is:  202
 After one more party()
->>> 
-=============== RESTART: /home/user/EDIBO/Python/OOP_test_1.py ===============
-Before an = PartyAnimal()
-{'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/home/user/EDIBO/Python/OOP_test_1.py', 'PartyAnimal': <class '__main__.PartyAnimal'>}
-After an = PartyAnimal()
-{'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/home/user/EDIBO/Python/OOP_test_1.py', 'PartyAnimal': <class '__main__.PartyAnimal'>, 'an': <__main__.PartyAnimal object at 0x7f6201dda3c8>}
-
-Before first an.party()
-So far 1
-After first an.party()
-
-Before second an.party()
-So far 2
-After second an.party
-
-Before third an.party()
-So far 3
-After third an.party()
-
-Before one more party()
-So far 4
-After one more party()
+>>> dir(an)
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'party', 'x']
 >>> 

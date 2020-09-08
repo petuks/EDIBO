@@ -1,1 +1,2 @@
-#Šeit sekos mani pieraksti par Python apgūšanu
+# Šeit sekos mani pieraksti par Python apgūšanu
+
